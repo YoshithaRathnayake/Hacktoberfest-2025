@@ -1,4 +1,5 @@
-# Hacktoberfest-2025
+# Hacktoberfest 2025
+
 ![17615126674777478013680483576940](https://github.com/user-attachments/assets/3777412d-067d-47d4-a331-33b04eb75644)
 
 This is a repository made for open-source contributors who are participating in hacktoberfest 2025!
